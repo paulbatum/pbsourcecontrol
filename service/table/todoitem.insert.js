@@ -1,4 +1,4 @@
 function insert(item, user, request) {
-	console.log("Inserting again something even cooler!!!!");
+	console.log("Inserting again something for Kirill!!!!");
 	request.execute();
 }
